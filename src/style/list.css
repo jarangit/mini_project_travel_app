@@ -1,0 +1,4 @@
+.form_select > label > input {
+  min-width: 400px;
+  display: block;
+}
